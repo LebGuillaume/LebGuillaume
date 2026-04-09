@@ -1,4 +1,4 @@
-# Salut, je m'appelle c'est Guillaume 👋
+# Salut, je m'appelle Guillaume 👋
 
 Développeur web Front-end basé à Lille, je construis des interfaces propres, performantes et centrées sur l'utilisateur.
 
