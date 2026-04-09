@@ -1,6 +1,6 @@
 # Salut, je m'appelle c'est Guillaume 👋
 
-Développeur web Front-end basé à Pont-à-Marcq (59), je construis des interfaces propres, performantes et centrées sur l'utilisateur.
+Développeur web Front-end basé à Lille, je construis des interfaces propres, performantes et centrées sur l'utilisateur.
 
 Autodidacte et curieux, j'avance par projets concrets — pas par tutoriels empilés.
 
