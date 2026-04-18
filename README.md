@@ -58,7 +58,7 @@ Autodidacte et curieux, j'avance par projets concrets — pas par tutoriels empi
 ## 📫 Me contacter
 
 - 📧 lebegue.guillaume26@gmail.com
-- 🌐 [Mon portfolio](https://guillaumelebegue.fr/) ← _(à remplacer par ton lien)_
+- 🌐 [Mon portfolio](https://guillaumelebegue.fr/)
 - 📍 Pont-à-Marcq — disponible en présentiel et télétravail
 
 ---
